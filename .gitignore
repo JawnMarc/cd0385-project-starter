@@ -6,4 +6,8 @@ project/init_preds
 
 project/data/bike-sharing-demand.zip
 
+project/.ipynb_checkpoints
+
 aws-project-sol.ipynb
+
+.ipynb_checkpoints
